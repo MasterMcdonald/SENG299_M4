@@ -1,0 +1,2 @@
+Because the select library can not work in Windows system, the chat system code in Windows file do not run as real-time system. User need tap enter to receive message from server. 
+However, the chat system in Mac file would work as a real-time system in macOS or other Linux system.
